@@ -1,0 +1,11 @@
+July 8 Meetings Minutes:
+
+The group session involved team members introducing their backgrounds and discussing their experiences with cloud computing and coding, highlighting their varying levels of familiarity with Google Cloud. Rachakonda Naga Srikanth expressed a desire to learn from his peers, while Valerie A Robert shared her transition from data science and the challenges she faced with lab assignments. The team collectively sought clarity on the use of BigQuery versus Pandas for data analysis, the integration of SQL queries, and the connection of their work in Colab to lab requirements. They recognized that completing Lab 1 would be essential for progressing with their assignments but required further guidance on deliverables and tools.
+
+As the discussion progressed, the team focused on task division for an upcoming assignment due on the 18th, with Rachakonda suggesting the use of AI for analyses and emphasizing individual contributions. They deliberated on the format for their video presentation and the need for clarification from their professor. Concerns were raised about the unpredictable outputs from AI models, particularly Gemini, and strategies for improving interactions with these models were discussed.
+
+The team agreed to hold a follow-up meeting on the 11th to assess progress and share outputs, while Valerie planned to attend office hours for additional support. Overall, the session emphasized the importance of clear communication and organization as they approached their deadlines.
+
+July 11 Meeting Minutes:
+
+The group work session focused on addressing various challenges faced by team members in their collaborative efforts. Sameer Yelamarthi expressed uncertainty regarding the source of an issue he encountered, while Rachakonda Naga Srikanth voiced his frustration with the collaborative tool and the dive framework, mentioning that he had exhausted his credits yet still managed to complete the customer dive, albeit with unsatisfactory results. Rachakonda suggested clustering customer segments into four to five groups, highlighting the need to differentiate between high-risk, high-value customers and loyal champions. Despite the difficulties, the team remained dedicated to fulfilling the task requirements.
